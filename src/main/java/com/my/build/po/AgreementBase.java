@@ -9,14 +9,14 @@ import java.util.Date;
  * tableName : agreement_base
  * remarks : 
  *
- * @mbg.generated 2018-3-4 11:25:33
+ * @mbg.generated 2018-3-4 11:30:44
  */
 public class AgreementBase {
     /**
      * columnName : AGREEMENT_BASE_ID jdbcType : VARCHAR
      * remarks : 基地协议连接表id
      *
-     * @mbg.generated 2018-3-4 11:25:33
+     * @mbg.generated 2018-3-4 11:30:44
      */
     private String agreementBaseId;
 
@@ -24,7 +24,7 @@ public class AgreementBase {
      * columnName : AGREEMENT_ID jdbcType : VARCHAR
      * remarks : 协议ID
      *
-     * @mbg.generated 2018-3-4 11:25:33
+     * @mbg.generated 2018-3-4 11:30:44
      */
     private String agreementId;
 
@@ -32,7 +32,7 @@ public class AgreementBase {
      * columnName : BASE_AND_NURSERY_ID jdbcType : VARCHAR
      * remarks : 苗圃基地ID/苗圃ID
      *
-     * @mbg.generated 2018-3-4 11:25:33
+     * @mbg.generated 2018-3-4 11:30:44
      */
     private String baseAndNurseryId;
 
@@ -40,7 +40,7 @@ public class AgreementBase {
      * columnName : TYPE jdbcType : DECIMAL
      * remarks : 类型：1 - 基地，2 - 苗圃
      *
-     * @mbg.generated 2018-3-4 11:25:33
+     * @mbg.generated 2018-3-4 11:30:44
      */
     private Byte type;
 
@@ -48,7 +48,7 @@ public class AgreementBase {
      * columnName : LAST_UPDATED_STAMP jdbcType : TIMESTAMP
      * remarks : 
      *
-     * @mbg.generated 2018-3-4 11:25:33
+     * @mbg.generated 2018-3-4 11:30:44
      */
     private Date lastUpdatedStamp;
 
